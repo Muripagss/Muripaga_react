@@ -18,7 +18,7 @@ function App() {
       </div>
       <h1>Vite + React</h1>
       <h2>Raihanie Muripaga</h2>
-      <h2>BSIT-IT2R12</h2>
+      <h2>BSIT-IT2R11</h2>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
